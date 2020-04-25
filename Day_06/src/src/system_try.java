@@ -7,6 +7,7 @@ public class system_try {
     public static void main(String[] args) {
 //        demo01();
 //        demo02();
+        System.out.println("Hello world!");
         demo03();
     }
 
